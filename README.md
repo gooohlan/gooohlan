@@ -17,5 +17,6 @@
 * 微信：InkDPP
 * GitHub：https://github.com/InkDP
 * 技术博客：https://www.inkdp.cn/
+* Email：me@inkdp.cn
 ### 个人简历
 &emsp;&emsp;后面补
