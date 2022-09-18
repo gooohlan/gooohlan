@@ -15,7 +15,7 @@
 ### 联系我
 * QQ：1576962841
 * 微信：InkDPP
-* GitHub：https://github.com/InkDP
+* GitHub：https://github.com/goohlan
 * 技术博客：https://www.inkdp.cn/
 * Email：me@inkdp.cn
 ### 个人简历
