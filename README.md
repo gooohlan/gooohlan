@@ -1,4 +1,4 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gooohlan&theme=synthwave&show_icons=true)[![Top Langs][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooohlan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gooohlan&theme=synthwave&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooohlan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 我是谁
 * 墨殇(InkDP)，一个间歇性自闭，持续性没心没肺的逗比青年
