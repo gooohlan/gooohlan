@@ -1,10 +1,7 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gooohlan&theme=synthwave&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooohlan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gooohlan&theme=synthwave&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gooohlan&repo=anuraghazra.github.io&theme=synthwave" />
-</a>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gooohlan&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gooohlan&layout=compact&theme=synthwave&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 
 ### 我是谁
