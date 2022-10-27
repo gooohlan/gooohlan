@@ -1,5 +1,5 @@
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gooohlan&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true&include_all_commits=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gooohlan&layout=compact&theme=synthwave&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gooohlan&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true&include_all_commits=false" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gooohlan&layout=compact&theme=synthwave&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
