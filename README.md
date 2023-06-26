@@ -9,8 +9,8 @@
 如果你对我感兴趣，可以通过一下方式联系我：
 * QQ：1576962841
 * Wechat：gooohlan
-* GitHub：https://github.com/goohlan
-* Blog：https://www.inkdp.cn/
+* GitHub：https://github.com/gooohlan
+* Blog：https://www.gooohlan.cn/
 * Email：gooohlan@qq.com
 
 <br>
