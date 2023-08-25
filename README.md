@@ -7,8 +7,6 @@
 一名生活在重庆后端开发工程师，一个间歇性自闭，持续性没心没肺的逗比青年。偶尔会学习，折腾下新技术，但大多时间我会选择打游戏，爬爬山，打打羽毛球之类的。
 
 如果你对我感兴趣，可以通过一下方式联系我：
-* QQ：1576962841
-* Wechat：gooohlan
 * GitHub：https://github.com/gooohlan
 * Blog：https://www.gooohlan.cn/
 * Email：gooohlan@qq.com
